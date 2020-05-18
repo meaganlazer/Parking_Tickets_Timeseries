@@ -1,12 +1,12 @@
 # Avoid Parking Tickets in NYC
 Meagan Rossi
 
-Overview<br/>
+##Overview<br/>
 
 
-<img src="Images/Precinct.png" width ="300">
+<img src="Images/Precincts.gif" width ="300">
 
-Prerequisites<br/>
+##Prerequisites<br/>
 SARIMA
 
 was the size of the dataset used in the project?
@@ -27,8 +27,8 @@ How to use<br/>
 
 **Data Sources:**
 1. NYC Open Data: [Open Parking and Camera Violations](https://data.cityofnewyork.us/City-Government/Open-Parking-and-Camera-Violations/nc67-uf89)
-2. NYC Open Data: Police Precincts https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz
-3. NOAA Weather Data https://www.ncdc.noaa.gov/cdo-web/search
+2. NYC Open Data: [Police Precincts](https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz)
+3. NOAA [National Centers for Environmental Information](https://www.ncdc.noaa.gov/cdo-web/search)
 
 Thank you!
 Please reach out to me, meaganrossi@gmail.com for any questions.
