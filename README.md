@@ -1,13 +1,11 @@
 # Avoid Parking Tickets in NYC
 Meagan Rossi
 
-##Overview<br/>
-
-
-<img src="Images/Precincts.gif" width ="300">
-
-##Prerequisites<br/>
-SARIMA
+## Overview<br/>
+Predicts days, seasons and weather patterns that more likely result in tickets with a focus on alternate side parking violations.
+Obtained over 7M individual tickets from NYC Open Data API for analysis using Python to upload, clean, and reshape data.
+Merged precinct geospatial data and NOAA weather data into the Pandas Dataframe to evaluate impact of exogenous variables.
+Used SARIMA Machine Learning to predict daily ticket issuance by precinct.
 
 was the size of the dataset used in the project?
 Did you collect data using API calls and web-scraping?
@@ -22,8 +20,12 @@ Conducted natural language (NLP) processing with NLTK to tokenize and vectorize 
 Extracted various sentiment metrics using TextBlob and Vader to refine machine learning algorithm and identify trends
 Employed Naïve Bayes Classifier and Logistic Regression to model probability of article reliability
 
+<img src="Images/Precincts.gif" width ="200">
 
-How to use<br/>
+<img src="Images/SARIMApng.png" width ="200">
+
+## Tools<br/>
+SARIMA
 
 **Data Sources:**
 1. NYC Open Data: [Open Parking and Camera Violations](https://data.cityofnewyork.us/City-Government/Open-Parking-and-Camera-Violations/nc67-uf89)
