@@ -1,5 +1,4 @@
 # Avoid Parking Tickets in NYC
-Meagan Rossi
 
 ## Overview<br/>
 Predicts days, seasons and weather patterns that more likely result in tickets with a focus on alternate side parking violations.
@@ -18,6 +17,3 @@ Used SARIMA Machine Learning to predict daily ticket issuance by precinct.
 1. NYC Open Data: [Open Parking and Camera Violations](https://data.cityofnewyork.us/City-Government/Open-Parking-and-Camera-Violations/nc67-uf89)
 2. NYC Open Data: [Police Precincts](https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz)
 3. NOAA [National Centers for Environmental Information](https://www.ncdc.noaa.gov/cdo-web/search)
-
-Thank you!
-Please reach out to me, meaganrossi@gmail.com for any questions.
