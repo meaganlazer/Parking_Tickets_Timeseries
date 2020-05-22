@@ -17,3 +17,4 @@ Used SARIMA Machine Learning to predict daily ticket issuance by precinct.
 1. NYC Open Data: [Open Parking and Camera Violations](https://data.cityofnewyork.us/City-Government/Open-Parking-and-Camera-Violations/nc67-uf89)
 2. NYC Open Data: [Police Precincts](https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz)
 3. NOAA [National Centers for Environmental Information](https://www.ncdc.noaa.gov/cdo-web/search)
+Does adding text affect the contributions will edit more tomorrow
