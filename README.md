@@ -1,4 +1,4 @@
-# Avoid Parking Tickets in NYC
+# Alternate Side Parking Tickets in NYC
 
 ## Overview<br/>
 Predicts days, seasons and weather patterns that more likely result in tickets with a focus on alternate side parking violations.
@@ -6,7 +6,7 @@ Obtained over 7M individual tickets from NYC Open Data API for analysis using Py
 Merged precinct geospatial data and NOAA weather data into the Pandas Dataframe to evaluate impact of exogenous variables.
 Used SARIMA Machine Learning to predict daily ticket issuance by precinct.
 
-<div style="width:100%;height:0;padding-bottom:109%;position:relative;"><iframe src="https://giphy.com/embed/L2OOEGxOXfYZZdydwB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/L2OOEGxOXfYZZdydwB">via GIPHY</a></p>
+![](Images/Weekdays.gif)
 
 <img src="Images/SARIMApng.png" width ="700">
 
