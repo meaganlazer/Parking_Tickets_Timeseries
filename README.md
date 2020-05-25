@@ -6,7 +6,12 @@ Obtained over 7M individual tickets from NYC Open Data API for analysis using Py
 Merged precinct geospatial data and NOAA weather data into the Pandas Dataframe to evaluate impact of exogenous variables.
 Used SARIMA Machine Learning to predict daily ticket issuance by precinct.
 
-![](Images/Weekday.gif)
+
+----
+
+![](Images/Weekday.gif)<!-- .element height="50%" width="50%" -->
+
+
 
 <img src="Images/SARIMApng.png" width ="700">
 
